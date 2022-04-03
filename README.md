@@ -1,12 +1,9 @@
-# 某容器云部署Xray高性能代理服务
+
 
 在某容器云部署Xray高性能代理服务，通过ws传输的(vmess、vless、trojan、shadowsocks、socks)等协议
 
 说明：https://owo.misaka.rest/koyeb-xray/
 
-# 请勿使用常用的账号部署此项目，以免封号！！
-
-## 部署步骤
 
 1. fork本仓库
 2. 在`Dockerfile`内第3-5行修改自定义设置，说明如下：
